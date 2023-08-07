@@ -1,0 +1,26 @@
+.featured {
+    .box {
+        transition: 1s;
+
+        .icons {
+            display: none;
+        }
+    }
+
+    .box:hover .icons {
+        display: block;
+    }
+
+
+}
+.banner2{
+    background-color: #eae2d8;
+    .content{
+        width: 50%;
+    }
+    .img{
+        width: 600px;
+  
+
+    }
+}

@@ -1,0 +1,20 @@
+.featured .box {
+  -webkit-transition: 1s;
+  transition: 1s;
+}
+.featured .box .icons {
+  display: none;
+}
+.featured .box:hover .icons {
+  display: block;
+}
+
+.banner2 {
+  background-color: #eae2d8;
+}
+.banner2 .content {
+  width: 50%;
+}
+.banner2 .img {
+  width: 600px;
+}/*# sourceMappingURL=style.css.map */
